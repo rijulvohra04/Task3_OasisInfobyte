@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 # In[3]:
 
 
-data = pd.read_csv(r'C:\Users\parveen\Desktop\spam.csv', encoding= 'ISO-8859-1')
+data = pd.read_csv(r'C:\Users\Rijul\Downloads\spam.csv', encoding= 'ISO-8859-1')
 
 
 # In[4]:
